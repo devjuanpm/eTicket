@@ -1,0 +1,1 @@
+programa para administrar las entradas de pubs, boliches, etc. (LetMeIn) - Mediante código QR
